@@ -1,11 +1,11 @@
 import React from 'react';
 import UnderConstruction from '../lib';
-import logo from './udilia-logo-white.svg';
+import logo from './IKI.png';
 
 const App = () => (
   <UnderConstruction
     background={{
-      image: 'https://static.pexels.com/photos/259698/pexels-photo-259698.jpeg',
+      image: 'https://w.wallhaven.cc/full/vm/wallhaven-vm5yzm.jpg',
       textColor: '#fff',
       overlay: {
         color: '#000',
@@ -16,7 +16,7 @@ const App = () => (
       src: logo,
       alt: 'logo',
       style: {
-        width: '80px'
+        width: '300px'
       }
     }}
     description={{
@@ -46,7 +46,7 @@ const App = () => (
         image: 'https://image.flaticon.com/icons/svg/145/145807.svg',
       },
       {
-        url: 'mailto:someone@example.com',
+        url: 'mailto:admin@weiots.io',
         image: 'https://image.flaticon.com/icons/svg/321/321817.svg',
       },
     ]}
